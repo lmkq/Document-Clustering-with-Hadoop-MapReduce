@@ -1,0 +1,5 @@
+Business: bank:0.02, growth:0.02, oil:0.02, market:0.02, firm:0.02	 
+Entertainment: film:0.05, best:0.02, show:0.02, music:0.02, band:0.02	 
+Politics: labour:0.04, blair:0.03, election:0.03, brown:0.02, howard:0.02	 
+Sport: game:0.02, england:0.02, cup:0.02, match:0.02, win:0.02	 
+Tech: microsoft:0.02, net:0.02, phone:0.02, virus:0.02, music:0.02	 
